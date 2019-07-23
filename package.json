@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-or2008",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shareable eslint config",
   "repository": {
     "url": "https://github.com/or2008/eslint-config-or2008",
