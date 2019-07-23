@@ -2,6 +2,10 @@
   "name": "eslint-config-or2008",
   "version": "0.0.1",
   "description": "Shareable eslint config",
+  "repository": {
+    "url": "https://github.com/or2008/eslint-config-or2008",
+    "type": "git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
