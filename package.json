@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-or2008",
+  "version": "0.0.1",
+  "description": "Shareable eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Or Bachar",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
