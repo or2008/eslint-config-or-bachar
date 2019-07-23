@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-or-bachar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shareable eslint config",
   "repository": {
     "url": "https://github.com/or2008/eslint-config-or2008",
