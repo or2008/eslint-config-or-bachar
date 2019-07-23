@@ -1,11 +1,11 @@
-# eslint-config-or2008
+# eslint-config-or-bachar
 Shareable eslint config
 
 
 Installation
 ------
 ```
-$ npm install eslint-config-boss
+$ npm install eslint-config-or-bachar
 ```
 
 Using a Shareable Config
@@ -14,7 +14,7 @@ Shareable configs are designed to work with the extends feature of .eslintrc fil
 
 ```
 {
-    "extends": "eslint-config-or2008"
+    "extends": "eslint-config-or-bachar"
 }
 ```
 
@@ -22,6 +22,6 @@ You can also omit the `eslint-config-` and it will be automatically assumed by E
 
 ```
 {
-    "extends": "or2008"
+    "extends": "or-bachar"
 }
 ```
