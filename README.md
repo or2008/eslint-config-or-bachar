@@ -5,7 +5,7 @@ Shareable eslint config
 Installation
 ------
 ```
-$ npm install eslint-config-or-bachar
+$ npm i -D eslint-config-or-bachar
 ```
 
 Using a Shareable Config
