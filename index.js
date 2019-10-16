@@ -19,8 +19,7 @@ module.exports = {
         "arrow-body-style": [0, "as-needed"],
         "arrow-parens": [2, "as-needed"],
         "no-unused-vars": 2,
-        "no-use-before-define": [2, { "functions": false }],
-        "@typescript-eslint/no-use-before-define": [2, { "functions": false }]
+        "no-use-before-define": [2, { "functions": false, "classes": false }],
+        "@typescript-eslint/no-use-before-define": [2, { "functions": false, "classes": false }]
     }
-
 };
