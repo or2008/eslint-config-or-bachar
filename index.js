@@ -28,9 +28,7 @@ module.exports = {
         '@typescript-eslint/interface-name-prefix': 0,
         '@typescript-eslint/explicit-member-accessibility': 0,
         '@typescript-eslint/no-triple-slash-reference': 0,
-        '@typescript-eslint/ban-ts-ignore': 1,
         '@typescript-eslint/no-this-alias': 0,
-        '@typescript-eslint/camelcase': 1,
         '@typescript-eslint/triple-slash-reference': ['error', { path: 'always', types: 'never', lib: 'never' }]
     }
 };
