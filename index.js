@@ -4,12 +4,12 @@ module.exports = {
     },
 
     rules: {
+        "semi": "error",
         "comma-spacing": [2, { "before": false, "after": true }],
         "no-eval": 2,
         "no-multiple-empty-lines": [2, { "max": 2 }],
         "quotes": [2, "single"],
         "yoda": 2,
-        "no-console": 1,
         "no-var": 2,
         "no-extra-parens": 2,
         "curly": [2, "multi-or-nest", "consistent"],
